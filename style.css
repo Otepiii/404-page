@@ -41,6 +41,8 @@ button {
   color: #fff;
   padding: 1rem;
   margin-top: 1.5rem;
+  border: none;
+  border-radius: 5px;
 }
 
 @media (max-width: 800px) {
